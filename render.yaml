@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: eaglercraft-server
-    env: docker
-    plan: free
-    dockerfilePath: Dockerfile
